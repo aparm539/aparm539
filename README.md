@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1 align='center'>Hi there, I'm Abhay Parmar👋</h1>
+
+- My friends call me Sunny. I use the pronouns He/Him.
+- I'm a Computer Information Systems student at Mount Royal University.
+- 
+
+
+
+
+
 
 <!--
 **Abhay-Parmar01/Abhay-Parmar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
