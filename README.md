@@ -2,7 +2,7 @@
 
 - My friends call me Sunny. I use the pronouns He/Him.
 - I'm a Computer Information Systems student at Mount Royal University.
-- 
+- I'm an Executive Shadow for <a href="https://camru.ca/" target="blank">CAMRU</a>
 
 
 
