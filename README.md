@@ -1,8 +1,10 @@
 <h1 align='center'>Hi there, I'm Abhay Parmar👋</h1>
 
-- My friends call me Sunny. I use the pronouns He/Him.
-- I'm a Computer Information Systems student at Mount Royal University.
-- I'm an Executive Shadow for <a href="https://camru.ca/" target="blank">CAMRU</a>
+- 😄 Pronouns: He/Him.
+- :apple: I'm a Computer Information Systems student at Mount Royal University.
+- ⚡ I'm an Executive Shadow for <a href="https://camru.ca/" target="blank">CAMRU</a>.
+- 📫 You can find me in room B103 or reach me on the CAMRU Discord. 
+- 🔭 I’m currently working on my <a href="https://aparm539.github.io/" target="blank">blog</a> (A work in progress!)
 
 
 
