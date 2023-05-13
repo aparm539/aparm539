@@ -1,6 +1,5 @@
 <h1 align='center'>Hi there, I'm Abhay Parmar👋</h1>
 
-- 😄 Pronouns: He/Him.
 - :apple: I'm a Computer Information Systems student at Mount Royal University.
 - ⚡ I'm an Executive Shadow for <a href="https://camru.ca/" target="blank">CAMRU</a>.
 - 📫 You can find me in room B103 or reach me on the CAMRU Discord. 
