@@ -1,10 +1,8 @@
 <h1 align='center'>Hi there, I'm Sunny Parmar👋</h1>
 
 - :apple: I'm a Computer Information Systems student at Mount Royal University.
-- ⚡ I'm the current president of <a href="https://camru.ca/" target="blank">CAMRU</a>.
+- ⚡ I'm the current president of MRUHacks, Mount Royal University's first student run hackathon
 - 📫 You can find me in room B103 or reach me on the CAMRU Discord. 
-- 🔭 I’m currently neglecting  my <a href="https://aparm539.github.io/" target="blank">blog</a> 
-- :exclamation: I was the lead organizer for <a href="https://hackathon.camru.ca/" target="blank">MRUHacks</a>, Mount Royal University's first student run hackathon
 
 
 
